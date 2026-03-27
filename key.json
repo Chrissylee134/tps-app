@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tps-pos-software-database",
+  "private_key_id": "18e5a177dc6ef67e4558f6383d745443a3644e01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEXTVyw1LWnnGo\nUd7Y6IVE/J3y4JiHL9Jm/bYOf2hB6KxHqVIz2pIIPl0bcMqlrcVHvCGWXryq7zdw\nI1mtHXetvVKgmqrAHPQ2YvSWWvR3ybYE1lxWS/i9q4fbKmJQiLZTpK/N7ei2I79F\naiArt/02rZ7uwX2HScpx+s35L1k5wX4/vTfpJQ0zZ22ZdxORir6/JAqH/OwOC7Xx\nr4mDyqbQmL2x2bX1hOddOIxWunAaqqnHfGTssNJo7wjG4IU1C79wNO9yhSFwojQE\nH+/8AlpgX/Rgt4ST7e2haHujOfWt7NETiKWad8KDlGdXwiaVkdZMt9MnMseHJ0Vo\nWUX69zW7AgMBAAECggEABe7btLt9GcSmIilTG+eupdPM1pqoUSawlfG4L1OfK/qi\nlfRiP58s3A3nqfLBqg7dj+95w6gveCoL2US1gBsMqNW4ajzcyDriZXBI+/AEmfKg\nysr1SvA3CaK7U0kXuQo1xBeM7k0aw8IXFJBX0ipYKW+b2+fsaeA2EIqSRaNYxVDA\njY0RgP0oGUQwc9vxKCEHG94mGus8PMESOookKYyMi76ucLZ+to7Usf60xBs5cjFp\nT66L5acrE3HzZNNfun+0PVCucB+0ABKSV0hBpAEMU/n3+AkigpKaJce10qJdhXdi\nv4z9qS/7M3LHxHiSez7UpObV/9s/wUsxToeo/1CMyQKBgQD7szqIhVYkxnCNt0mk\nLXAaVvKN2fXekWo7XF3cFUm+72X3bHuZjkKyUqp7OOwwK+B9jkpl5tauc/IlNAcS\nEKuYOJ7Fcd6eRqh8nwSkZXDpWM5pswOcW8ZjTC9qciIwnBxvodPN7RRBXQRjW1GK\n+1RlMKqXbQUi24FBhNnOlBdkMwKBgQDHt/oG4obodQdfb38THhh07k/JHqykjeSk\noPMf6GkmEcdsx0LoGhfVp1J6KSmEHkEyp2ez4lsR18RDP+xndWEoGRuX8GLApSD8\neNTCpRD//aPdHef69cDtNK8Llo4QdnjZuk96w92KJRQHGXZ/DgPL22nKXXj1CQo9\nJ0R9HXUgWQKBgBIpf6rEPFARBaQkOqsfIDy2U3BK7wPtaEX6R0ePPbAKZEgzSsPs\n0QE/F9AmblyXfe5xawrpWkpiUXG/zFbQXyFvzH0g11iCbrv3WYVnUHt2DgbwhO0u\nbiVSJQXAUJlDWoXvnnH4joKc7KkiuMKXmiJnHZgppLo8LpqEtJbEdt+jAoGBALbG\nZzovy7kniPTNLCWJ0GYKxtfPi74Y4VvMtFPKNZiSgsjJXzDc2F0+gNutmgIAUjiS\nPfTBPgkJRuMouChCowS4XaliZG3bcWG9DzGHMRSlwnYU7X2dtM8g/OWFBkSIt7bC\nrAQ1BiVsI3UP14MVh2HkTl/VxWGywT0QF7zM3akZAoGAfJibupW/mDgmExM06Gj5\ns/fY73PxLpOukY/o0CaLnQJpvQH+Y0eRB/TTffXY3Ljfh9sfF+29s+QVdSdAI0EU\npjqUwaT7hW6oqs0lVZrxuIUDrYNWYO/mL5bPvkadYHOJ+io+MpkuUO1Rbu1ADF5C\n8ROBrxIp9oj44gLMkQ8txxg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mis-software@tps-pos-software-database.iam.gserviceaccount.com",
+  "client_id": "117571210112878438443",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mis-software%40tps-pos-software-database.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
