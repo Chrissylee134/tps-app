@@ -1,2 +1,8 @@
 node_modules/
 *.json.bak
+.env
+.DS_Store
+dist/
+build/
+coverage/
+key.json
